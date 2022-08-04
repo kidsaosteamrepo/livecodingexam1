@@ -26,10 +26,3 @@
 > 샘플 화면
 
 ![screen](./doc/screen.png)
-
-### 2. Github public API를 이용하여 검색 결과를 Recycler view에 표시하세요
-
-* API doc: https://docs.github.com/en/rest/search#search-repositories
-* 검색 키워드: Android
-* 정렬 순서: stars
-* 검색 결과: 10개
